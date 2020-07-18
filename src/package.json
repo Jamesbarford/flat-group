@@ -1,0 +1,15 @@
+{
+  "name": "flat-group",
+  "version": "0.0.1",
+  "description": "A function for creating flat groups from items in array",
+  "main": "/dist/index.js",
+  "types": "/dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Barford-Evans",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.8.2"
+  }
+}
