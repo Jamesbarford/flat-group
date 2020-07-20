@@ -2,6 +2,16 @@
 
 The purpose of this small module is to make an array of json grouped and thus easier to query as a group like structure. Something which is useful for libraries like `D3.js`.
 
+## How to import:
+
+```js
+const flatGroup = require("flat-group");
+
+// or 
+
+import flatGroup from "flat-group";
+```
+
 **example 1**
 
 For demonstrative purposes this illustrates nothing particularly exciting with just one key 
