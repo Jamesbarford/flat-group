@@ -1,9 +1,9 @@
 {
   "name": "flat-group",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "A function for creating flat groups from items in array",
-  "main": "/dist/index.js",
-  "types": "/dist/index.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jamesbarford/flat-group.git"
