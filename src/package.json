@@ -1,6 +1,6 @@
 {
   "name": "flat-group",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "A function for creating flat groups from items in array",
   "main": "index.js",
   "types": "index.d.ts",
